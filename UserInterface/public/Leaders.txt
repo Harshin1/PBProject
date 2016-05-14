@@ -1,0 +1,6 @@
+key,value
+trump,1895
+clinton,250
+kasich,170
+cruz,894
+sanders,137

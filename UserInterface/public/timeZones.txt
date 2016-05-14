@@ -1,0 +1,12 @@
+name,value
+Pacific Time,12168
+Eastern Time,9501
+Central Time,6108
+London,1944
+Atlantic Time,1936
+Quito,1716
+Brasilia,1691
+Mountain Time,1194
+Arizona,1150
+Amsterdam,784
+Hawaii,653
